@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "7 Wonders",
+    "unity": 8,
+    "category": "Jogos",
+    "price": 399.99,
+    "createdAt": "10/07/2024",
+    "updatedAt": "11/07/2024"
+  },
+  {
+    "id": 2,
+    "title": "O Senhor dos Anéis",
+    "unity": 32,
+    "category": "Livros",
+    "price": 200,
+    "createdAt": "02/07/2024",
+    "updatedAt": "16/07/2024"
+  },
+  {
+    "id": 3,
+    "title": "Harry Potter",
+    "unity": 2,
+    "category": "Livros",
+    "price": 150,
+    "createdAt": "06/07/2024",
+    "updatedAt": "10/07/2024"
+  }
+]
