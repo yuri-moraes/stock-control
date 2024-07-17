@@ -1,6 +1,6 @@
 # React + Vite
 
-Esse projeto CRUD foi feito implementando a maiorias dos hooks e métodos do React.js, tendo apenas como exceção o usdo de boudaries.
+Esse projeto CRUD foi feito implementando a maiorias dos hooks e métodos do React.js, tendo apenas como exceção o uso de boudaries.
 
 Os itens criados estão no local storage, portanto, um projeto 100% front-end, futuras implementações o incorparão um back-end.
 
